@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "jtgrimes\\Laravelodbc": "src/"
+            "jackley\\Laravelodbc": "src/"
         }
     },
     "minimum-stability": "dev"
